@@ -37,5 +37,6 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 			driver.manage().window().maximize();
 		}
 	}
+//I updated my test base
 
 
