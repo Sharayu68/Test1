@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-20T20:38:59 IST" name="Default suite" finished-at="2022-08-20T20:41:35 IST" duration-ms="156624">
+    <groups>
+    </groups>
+    <test started-at="2022-08-20T20:38:59 IST" name="Default test" finished-at="2022-08-20T20:41:35 IST" duration-ms="156624">
+      <class name="TestCases.HoldingsTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.HoldingsTest@5b03b9fe]" started-at="2022-08-20T20:38:59 IST" name="setup" finished-at="2022-08-20T20:39:13 IST" duration-ms="14194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="placeOrderTest()[pri:0, instance:TestCases.HoldingsTest@5b03b9fe]" started-at="2022-08-20T20:39:13 IST" name="placeOrderTest" finished-at="2022-08-20T20:39:15 IST" duration-ms="2265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- placeOrderTest -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:TestCases.HoldingsTest@5b03b9fe]" started-at="2022-08-20T20:39:15 IST" name="exit" finished-at="2022-08-20T20:39:15 IST" duration-ms="156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.HoldingsTest@5b03b9fe]" started-at="2022-08-20T20:39:15 IST" name="setup" finished-at="2022-08-20T20:39:25 IST" duration-ms="9589" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="placeOrderTest()[pri:0, instance:TestCases.HoldingsTest@5b03b9fe]" started-at="2022-08-20T20:39:25 IST" name="placeOrderTest" finished-at="2022-08-20T20:39:27 IST" duration-ms="2228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- placeOrderTest -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:TestCases.HoldingsTest@5b03b9fe]" started-at="2022-08-20T20:39:27 IST" name="exit" finished-at="2022-08-20T20:39:27 IST" duration-ms="211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.HoldingsTest@5b03b9fe]" started-at="2022-08-20T20:39:27 IST" name="setup" finished-at="2022-08-20T20:39:38 IST" duration-ms="10555" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="placeOrderTest()[pri:0, instance:TestCases.HoldingsTest@5b03b9fe]" started-at="2022-08-20T20:39:38 IST" name="placeOrderTest" finished-at="2022-08-20T20:39:40 IST" duration-ms="2119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- placeOrderTest -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:TestCases.HoldingsTest@5b03b9fe]" started-at="2022-08-20T20:39:40 IST" name="exit" finished-at="2022-08-20T20:39:40 IST" duration-ms="168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.HoldingsTest@5b03b9fe]" started-at="2022-08-20T20:39:40 IST" name="setup" finished-at="2022-08-20T20:39:52 IST" duration-ms="12165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="placeOrderTest()[pri:0, instance:TestCases.HoldingsTest@5b03b9fe]" started-at="2022-08-20T20:39:52 IST" name="placeOrderTest" finished-at="2022-08-20T20:39:55 IST" duration-ms="2227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- placeOrderTest -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:TestCases.HoldingsTest@5b03b9fe]" started-at="2022-08-20T20:39:55 IST" name="exit" finished-at="2022-08-20T20:39:55 IST" duration-ms="161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.HoldingsTest@5b03b9fe]" started-at="2022-08-20T20:39:55 IST" name="setup" finished-at="2022-08-20T20:40:06 IST" duration-ms="11626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchForTest()[pri:0, instance:TestCases.HoldingsTest@5b03b9fe]" started-at="2022-08-20T20:40:06 IST" name="searchForTest" finished-at="2022-08-20T20:40:18 IST" duration-ms="12059" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchForTest -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:TestCases.HoldingsTest@5b03b9fe]" started-at="2022-08-20T20:40:18 IST" name="exit" finished-at="2022-08-20T20:40:19 IST" duration-ms="149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.HoldingsTest@5b03b9fe]" started-at="2022-08-20T20:40:19 IST" name="setup" finished-at="2022-08-20T20:40:30 IST" duration-ms="10959" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="startTest()[pri:0, instance:TestCases.HoldingsTest@5b03b9fe]" started-at="2022-08-20T20:40:30 IST" name="startTest" finished-at="2022-08-20T20:40:34 IST" depends-on-methods="TestCases.HoldingsTest.placeOrderTest" duration-ms="4380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:TestCases.HoldingsTest@5b03b9fe]" started-at="2022-08-20T20:40:34 IST" name="exit" finished-at="2022-08-20T20:40:34 IST" duration-ms="175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.HoldingsTest@5b03b9fe]" started-at="2022-08-20T20:40:34 IST" name="setup" finished-at="2022-08-20T20:40:44 IST" duration-ms="10259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="createGttTest()[pri:1, instance:TestCases.HoldingsTest@5b03b9fe]" started-at="2022-08-20T20:40:44 IST" name="createGttTest" finished-at="2022-08-20T20:41:01 IST" duration-ms="16772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createGttTest -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:TestCases.HoldingsTest@5b03b9fe]" started-at="2022-08-20T20:41:01 IST" name="exit" finished-at="2022-08-20T20:41:01 IST" duration-ms="150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.HoldingsTest@5b03b9fe]" started-at="2022-08-20T20:41:01 IST" name="setup" finished-at="2022-08-20T20:41:13 IST" duration-ms="11753" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="sellTest()[pri:2, instance:TestCases.HoldingsTest@5b03b9fe]" started-at="2022-08-20T20:41:13 IST" name="sellTest" finished-at="2022-08-20T20:41:35 IST" duration-ms="22040" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sellTest -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:TestCases.HoldingsTest@5b03b9fe]" started-at="2022-08-20T20:41:35 IST" name="exit" finished-at="2022-08-20T20:41:35 IST" duration-ms="193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- TestCases.HoldingsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
